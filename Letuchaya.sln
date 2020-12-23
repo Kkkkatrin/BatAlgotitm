@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Letuchaya", "Letuchaya\Letuchaya.csproj", "{1D5EE79F-E014-4A39-941B-FD28BB3A6E87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BatAlgorithm", "BatAlgorithm\BatAlgorithm.csproj", "{A6782F97-C785-4D95-9435-F3D517B19F01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D5EE79F-E014-4A39-941B-FD28BB3A6E87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D5EE79F-E014-4A39-941B-FD28BB3A6E87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D5EE79F-E014-4A39-941B-FD28BB3A6E87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D5EE79F-E014-4A39-941B-FD28BB3A6E87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6782F97-C785-4D95-9435-F3D517B19F01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6782F97-C785-4D95-9435-F3D517B19F01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6782F97-C785-4D95-9435-F3D517B19F01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6782F97-C785-4D95-9435-F3D517B19F01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4949D12A-BCC2-4DD0-B3BB-65FD3E237AE9}
+	EndGlobalSection
+EndGlobal
