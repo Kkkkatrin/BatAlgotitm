@@ -1,0 +1,7 @@
+C:\Users\Катрин\source\repos\Letuchaya\Letuchaya\bin\Debug\Letuchaya.exe.config
+C:\Users\Катрин\source\repos\Letuchaya\Letuchaya\bin\Debug\Letuchaya.exe
+C:\Users\Катрин\source\repos\Letuchaya\Letuchaya\bin\Debug\Letuchaya.pdb
+C:\Users\Катрин\source\repos\Letuchaya\Letuchaya\obj\Debug\Letuchaya.csprojAssemblyReference.cache
+C:\Users\Катрин\source\repos\Letuchaya\Letuchaya\obj\Debug\Letuchaya.csproj.CoreCompileInputs.cache
+C:\Users\Катрин\source\repos\Letuchaya\Letuchaya\obj\Debug\Letuchaya.exe
+C:\Users\Катрин\source\repos\Letuchaya\Letuchaya\obj\Debug\Letuchaya.pdb
