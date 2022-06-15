@@ -10,20 +10,14 @@ namespace BatAlgorithmC
     class Program
     {
         static void Main(string[] args)
-        {
-                
+        {         
                 Mybat x = new Mybat(200, 100, 0.5, 0.7, 4, Mybat.Result);
                 Console.WriteLine("Hit any key to continue.");
                 Console.ReadLine();
-
         }
-
-
     }
-
         public class Mybat
         {
-
             public int _numberOfBats, _generations, Qmin, Qmax, N_iter, _dimension;
             public double _volume, _pulseRate, min, max, fnew, fmin;
             public double[][] _lowerBound, _upperBound, _velocity, _solution, S, velocity;
